@@ -22,3 +22,8 @@ a{
   color: #f57c00;
   text-decoration: none;
 }
+
+.main{
+  display: flex;
+  flex-wrap: wrap;
+}
