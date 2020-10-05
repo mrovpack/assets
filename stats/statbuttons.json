@@ -35,11 +35,6 @@
     "objective": "lapis"
   },
   {
-    "icon": "quartz.png",
-    "name": "Kwarc",
-    "objective": "quartz"
-  },
-  {
     "icon": "copper.png",
     "name": "Miedź",
     "objective": "copper"
@@ -75,44 +70,14 @@
     "objective": "cinnabar"
   },
   {
-    "icon": "dirt.png",
-    "name": "Ziemia",
-    "objective": "dirt"
-  },
-  {
-    "icon": "fluid-gravel.png",
-    "name": "Olej",
-    "objective": "fluidgravel"
-  },
-  {
-    "icon": "fluid-sand.png",
-    "name": "Olej",
-    "objective": "fluidsand"
-  },
-  {
     "icon": "fluid-redstone.png",
     "name": "Destabilizowany Redstone",
     "objective": "fluidredstone"
   },
   {
-    "icon": "fluid-glowstone.png",
-    "name": "Energetyzowany Netherrack",
-    "objective": "fluidglowstone"
-  },
-  {
-    "icon": "fluid-ender.png",
-    "name": "Rezonujący Ender",
-    "objective": "fluidender"
-  },
-  {
-    "icon": "gravel.png",
-    "name": "Żwir",
-    "objective": "gravel"
-  },
-  {
-    "icon": "glowstone.png",
-    "name": "Glowstone",
-    "objective": "glowstone"
+    "icon": "netherite.png",
+    "name": "Netherite",
+    "objective": "netherite"
   },
   {
     "icon": "netherdiamond.png",
@@ -130,14 +95,34 @@
     "objective": "neth_iron"
   },
   {
-    "icon": "netherite.png",
-    "name": "Netherite",
-    "objective": "netherite"
+    "icon": "quartz.png",
+    "name": "Kwarc",
+    "objective": "quartz"
   },
   {
-    "icon": "netherrack.png",
-    "name": "Netherrack",
-    "objective": "netherrack"
+    "icon": "sulfur.png",
+    "name": "Siarka",
+    "objective": "sulfur"
+  },
+  {
+    "icon": "fluid-glowstone.png",
+    "name": "Energetyzowany Netherrack",
+    "objective": "fluidglowstone"
+  },
+  {
+    "icon": "fluid-gravel.png",
+    "name": "Olej",
+    "objective": "fluidgravel"
+  },
+  {
+    "icon": "fluid-sand.png",
+    "name": "Olej",
+    "objective": "fluidsand"
+  },
+  {
+    "icon": "fluid-ender.png",
+    "name": "Rezonujący Ender",
+    "objective": "fluidender"
   },
   {
     "icon": "niter.png",
@@ -145,19 +130,14 @@
     "objective": "niter"
   },
   {
-    "icon": "obsidian.png",
-    "name": "Obsydian",
-    "objective": "obsidian"
-  },
-  {
     "icon": "platinum.png",
     "name": "Platyna",
     "objective": "platinum"
   },
   {
-    "icon": "sand.png",
-    "name": "Piasek",
-    "objective": "sand"
+    "icon": "obsidian.png",
+    "name": "Obsydian",
+    "objective": "obsidian"
   },
   {
     "icon": "stone.png",
@@ -165,8 +145,28 @@
     "objective": "stone"
   },
   {
-    "icon": "sulfur.png",
-    "name": "Siarka",
-    "objective": "sulfur"
+    "icon": "dirt.png",
+    "name": "Ziemia",
+    "objective": "dirt"
+  },
+  {
+    "icon": "gravel.png",
+    "name": "Żwir",
+    "objective": "gravel"
+  },
+  {
+    "icon": "netherrack.png",
+    "name": "Netherrack",
+    "objective": "netherrack"
+  },
+  {
+    "icon": "sand.png",
+    "name": "Piasek",
+    "objective": "sand"
+  },
+  {
+    "icon": "glowstone.png",
+    "name": "Glowstone",
+    "objective": "glowstone"
   }
 ]
