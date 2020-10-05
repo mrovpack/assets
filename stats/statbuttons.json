@@ -35,19 +35,39 @@
     "objective": "emerald"
   },
   {
+    "icon": "fluid-gravel.png",
+    "name": "Olej",
+    "objective": "fluidgravel"
+  },
+  {
+    "icon": "fluid-sand.png",
+    "name": "Olej",
+    "objective": "fluidsand"
+  },
+  {
     "icon": "fluid-redstone.png",
     "name": "Destabilizowany Redstone",
-    "objective": "fluid-redstone"
+    "objective": "fluidredstone"
   },
   {
     "icon": "fluid-glowstone.png",
     "name": "Energetyzowany Netherrack",
-    "objective": "fluid-glowstone"
+    "objective": "fluidglowstone"
   },
   {
     "icon": "fluid-ender.png",
     "name": "Rezonujący Ender",
-    "objective": "fluid-ender"
+    "objective": "fluidender"
+  },
+  {
+    "icon": "gravel.png",
+    "name": "Żwir",
+    "objective": "gravel"
+  },
+  {
+    "icon": "glowstone.png",
+    "name": "Glowstone",
+    "objective": "glowstone"
   },
   {
     "icon": "gold.png",
