@@ -1,13 +1,23 @@
 [
   {
-    "icon": "aluminum.png",
-    "name": "Aluminium",
-    "objective": "aluminum"
+    "icon": "diamond.png",
+    "name": "Diamenty",
+    "objective": "diamond"
   },
   {
-    "icon": "cinnabar.png",
-    "name": "Cynober",
-    "objective": "cinnabar"
+    "icon": "emerald.png",
+    "name": "Szmaragdy",
+    "objective": "emerald"
+  },
+  {
+    "icon": "gold.png",
+    "name": "Złoto",
+    "objective": "gold"
+  },
+  {
+    "icon": "iron.png",
+    "name": "Żelazo",
+    "objective": "iron"
   },
   {
     "icon": "coal.png",
@@ -15,24 +25,59 @@
     "objective": "coal"
   },
   {
+    "icon": "redstone.png",
+    "name": "Redstone",
+    "objective": "redstone"
+  },
+  {
+    "icon": "lapis.png",
+    "name": "Lapis",
+    "objective": "lapis"
+  },
+  {
+    "icon": "quartz.png",
+    "name": "Kwarc",
+    "objective": "quartz"
+  },
+  {
     "icon": "copper.png",
     "name": "Miedź",
     "objective": "copper"
   },
   {
-    "icon": "diamond.png",
-    "name": "Diamenty",
-    "objective": "diamond"
+    "icon": "tin.png",
+    "name": "Cyna",
+    "objective": "tin"
+  },
+  {
+    "icon": "lead.png",
+    "name": "Ołów",
+    "objective": "lead"
+  },
+  {
+    "icon": "silver.png",
+    "name": "Srebro",
+    "objective": "silver"
+  },
+  {
+    "icon": "aluminum.png",
+    "name": "Aluminium",
+    "objective": "aluminum"
+  },
+  {
+    "icon": "nickel.png",
+    "name": "Nikiel",
+    "objective": "nickel"
+  },
+  {
+    "icon": "cinnabar.png",
+    "name": "Cynober",
+    "objective": "cinnabar"
   },
   {
     "icon": "dirt.png",
     "name": "Ziemia",
     "objective": "dirt"
-  },
-  {
-    "icon": "emerald.png",
-    "name": "Szmaragdy",
-    "objective": "emerald"
   },
   {
     "icon": "fluid-gravel.png",
@@ -70,26 +115,6 @@
     "objective": "glowstone"
   },
   {
-    "icon": "gold.png",
-    "name": "Złoto",
-    "objective": "gold"
-  },
-  {
-    "icon": "iron.png",
-    "name": "Żelazo",
-    "objective": "iron"
-  },
-  {
-    "icon": "lapis.png",
-    "name": "Lapis",
-    "objective": "lapis"
-  },
-  {
-    "icon": "lead.png",
-    "name": "Ołów",
-    "objective": "lead"
-  },
-  {
     "icon": "netherdiamond.png",
     "name": "Nether Diamond",
     "objective": "neth_diamond"
@@ -115,11 +140,6 @@
     "objective": "netherrack"
   },
   {
-    "icon": "nickel.png",
-    "name": "Nikiel",
-    "objective": "nickel"
-  },
-  {
     "icon": "niter.png",
     "name": "Niter",
     "objective": "niter"
@@ -135,24 +155,9 @@
     "objective": "platinum"
   },
   {
-    "icon": "quartz.png",
-    "name": "Kwarc",
-    "objective": "quartz"
-  },
-  {
-    "icon": "redstone.png",
-    "name": "Redstone",
-    "objective": "redstone"
-  },
-  {
     "icon": "sand.png",
     "name": "Piasek",
     "objective": "sand"
-  },
-  {
-    "icon": "silver.png",
-    "name": "Srebro",
-    "objective": "silver"
   },
   {
     "icon": "stone.png",
@@ -163,10 +168,5 @@
     "icon": "sulfur.png",
     "name": "Siarka",
     "objective": "sulfur"
-  },
-  {
-    "icon": "tin.png",
-    "name": "Cyna",
-    "objective": "tin"
   }
 ]
