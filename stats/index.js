@@ -28,19 +28,17 @@ function dataReady(json){
 		players.push(item);
 	}
 
-	getTotalDistances();
+	// getTotalDistances();
 }
 
 function createIcons(array){
 
   for(item of array){
 
-    let icon = item.icon;
-    let name = item.name;
     let objective = item.objective;
 
     let div = document.createElement("div");
-    $(div).css("background-image", "url("+ UrlImages + "" + icon);
+    $(div).css("background-image", "url("+ UrlImages + "" + objective + '.png');
     $(div).addClass("objectiveButton");
 
     let count = document.createElement("div");

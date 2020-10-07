@@ -1,172 +1,36 @@
 [
-  {
-    "icon": "diamond.png",
-    "name": "Diamenty",
-    "objective": "diamond"
-  },
-  {
-    "icon": "emerald.png",
-    "name": "Szmaragdy",
-    "objective": "emerald"
-  },
-  {
-    "icon": "gold.png",
-    "name": "Złoto",
-    "objective": "gold"
-  },
-  {
-    "icon": "iron.png",
-    "name": "Żelazo",
-    "objective": "iron"
-  },
-  {
-    "icon": "coal.png",
-    "name": "Węgiel",
-    "objective": "coal"
-  },
-  {
-    "icon": "redstone.png",
-    "name": "Redstone",
-    "objective": "redstone"
-  },
-  {
-    "icon": "lapis.png",
-    "name": "Lapis",
-    "objective": "lapis"
-  },
-  {
-    "icon": "copper.png",
-    "name": "Miedź",
-    "objective": "copper"
-  },
-  {
-    "icon": "tin.png",
-    "name": "Cyna",
-    "objective": "tin"
-  },
-  {
-    "icon": "lead.png",
-    "name": "Ołów",
-    "objective": "lead"
-  },
-  {
-    "icon": "silver.png",
-    "name": "Srebro",
-    "objective": "silver"
-  },
-  {
-    "icon": "aluminum.png",
-    "name": "Aluminium",
-    "objective": "aluminum"
-  },
-  {
-    "icon": "nickel.png",
-    "name": "Nikiel",
-    "objective": "nickel"
-  },
-  {
-    "icon": "cinnabar.png",
-    "name": "Cynober",
-    "objective": "cinnabar"
-  },
-  {
-    "icon": "fluid-redstone.png",
-    "name": "Destabilizowany Redstone",
-    "objective": "fluidredstone"
-  },
-  {
-    "icon": "netherite.png",
-    "name": "Netherite",
-    "objective": "netherite"
-  },
-  {
-    "icon": "netherdiamond.png",
-    "name": "Nether Diamond",
-    "objective": "neth_diamond"
-  },
-  {
-    "icon": "nethergold.png",
-    "name": "Nether Gold",
-    "objective": "neth_gold"
-  },
-  {
-    "icon": "netheriron.png",
-    "name": "Nether Iron",
-    "objective": "neth_iron"
-  },
-  {
-    "icon": "quartz.png",
-    "name": "Kwarc",
-    "objective": "quartz"
-  },
-  {
-    "icon": "sulfur.png",
-    "name": "Siarka",
-    "objective": "sulfur"
-  },
-  {
-    "icon": "fluid-glowstone.png",
-    "name": "Energetyzowany Netherrack",
-    "objective": "fluidglowstone"
-  },
-  {
-    "icon": "fluid-gravel.png",
-    "name": "Olej",
-    "objective": "fluidgravel"
-  },
-  {
-    "icon": "fluid-sand.png",
-    "name": "Olej",
-    "objective": "fluidsand"
-  },
-  {
-    "icon": "fluid-ender.png",
-    "name": "Rezonujący Ender",
-    "objective": "fluidender"
-  },
-  {
-    "icon": "niter.png",
-    "name": "Niter",
-    "objective": "niter"
-  },
-  {
-    "icon": "platinum.png",
-    "name": "Platyna",
-    "objective": "platinum"
-  },
-  {
-    "icon": "obsidian.png",
-    "name": "Obsydian",
-    "objective": "obsidian"
-  },
-  {
-    "icon": "stone.png",
-    "name": "Kamień",
-    "objective": "stone"
-  },
-  {
-    "icon": "dirt.png",
-    "name": "Ziemia",
-    "objective": "dirt"
-  },
-  {
-    "icon": "gravel.png",
-    "name": "Żwir",
-    "objective": "gravel"
-  },
-  {
-    "icon": "netherrack.png",
-    "name": "Netherrack",
-    "objective": "netherrack"
-  },
-  {
-    "icon": "sand.png",
-    "name": "Piasek",
-    "objective": "sand"
-  },
-  {
-    "icon": "glowstone.png",
-    "name": "Glowstone",
-    "objective": "glowstone"
-  }
+  "diamond",
+  "emerald",
+  "gold",
+  "iron",
+  "coal",
+  "redstone",
+  "lapis",
+  "copper",
+  "tin",
+  "lead",
+  "silver",
+  "aluminum",
+  "nickel",
+  "cinnabar",
+  "fluidredstone",
+  "netherite",
+  "neth_diamond",
+  "neth_gold",
+  "neth_iron",
+  "quartz",
+  "sulfur",
+  "fluidglowstone",
+  "fluidgravel",
+  "fluidsand",
+  "fluidender",
+  "niter",
+  "platinum",
+  "obsidian",
+  "stone",
+  "dirt",
+  "gravel",
+  "netherrack",
+  "sand",
+  "glowstone"
 ]
