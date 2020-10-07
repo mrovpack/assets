@@ -35,14 +35,12 @@ function createIcons(array){
 
   for(item of array){
 
-    let objective = item.objective;
-
     let div = document.createElement("div");
-    $(div).css("background-image", "url("+ UrlImages + "" + objective + '.png');
+    $(div).css("background-image", "url("+ UrlImages + "" + item + '.png');
     $(div).addClass("objectiveButton");
 
     let count = document.createElement("div");
-    $(count).html(createTable(objective));
+    $(count).html(createTable(item));
     $(count).addClass("scoreCount");
 
 
